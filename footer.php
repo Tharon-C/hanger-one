@@ -1,10 +1,27 @@
+			<section class="footer-gallery" >
+				<div class="p-wrap clear">
+					<div class="col-1-3 m-full p-l img-1">
+					</div>
+					
+					<div class="col-1-3 hide-m-and-below p-l img-2">
+					</div>
+					
+					<div class="col-1-3 m-full p-l img-3">
+					</div>
+					
+				</div>
+
+			</section>
+            
 			
-            <div class="footer-items footer-1">
+
+
+            <section class="footer-items footer-1">
                 <div class="page-wrapper clear">
                    
 					<?php dynamic_sidebar('footer-1'); ?>
 				</div>
-			</div>
+			</section>
 
     <footer class="footer-2">      
           <p class="copyright">
