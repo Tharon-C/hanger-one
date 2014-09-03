@@ -48,7 +48,7 @@
 				    <div class="logo">
 						<a href="<?php echo home_url(); ?>">
 							<!-- svg logo - toddmotto.com/mastering-svg-use-for-a-retina-web-fallbacks-with-png-script -->
-							<img src="<?php echo get_template_directory_uri(); ?>/img/logo-clean.png" alt="full Logo" class="logo-img">
+							<img src="<?php echo get_template_directory_uri(); ?>/img/logo-clean.png" alt=" Logo" class="full logo-img">
 						</a>
                     </div>
 					<!-- /logo -->
@@ -61,14 +61,7 @@
 			<!-- /header -->
 
 			<!-- mobile header -->
-</div>
-					</section>	
-					<nav class="nav-2 color-3">
-						<div class="p-wrap clear">
-						<?php  add_custom_nav_menu('menu-2'); ?>
-					</div>
-					</nav>
-			</header>
+
 			<div class="hide-l show-m-and-below color-1">
 			<img src="<?php echo get_template_directory_uri(); ?>/img/logo-clean.png" alt="Logo" class="max-300px p-c pad-30px">
 			<div class="color-3 nav-2">
