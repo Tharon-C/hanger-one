@@ -6,7 +6,7 @@
             <?php if (have_posts()): while (have_posts()) : the_post(); ?>
 
 			<!-- article -->
-			<article class="home-content page-wrapper clear" id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
+			<article class=" pad-tb-30px page-wrapper clear" id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 
 				<?php the_content(); ?>
 
