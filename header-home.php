@@ -59,7 +59,7 @@
 					<!-- /nav -->
 					<section class="banner">
 						<div class="p-wrap clear">
-							<img class="p-l col-1-2 pad-20px" src="<?php echo get_template_directory_uri(); ?>/img/slider-1-car.png" />
+							<img class="p-l col-1-2 pad-t-20px" src="<?php echo get_template_directory_uri(); ?>/img/slider-1-car.png" />
 							<header class="slide-1 p-l col-1-2 marg-t-50px">
 								<h1 class="headline-1">
 									Premium Window Tint
