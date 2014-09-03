@@ -76,6 +76,9 @@
 					</div>
 					</nav>
 			</header>
+			<!-- /header -->
+			
+			<!-- mobile header -->
 			<div class="hide-l show-m-and-below color-1">
 			<img src="<?php echo get_template_directory_uri(); ?>/img/logo-clean.png" alt="Logo" class="max-300px p-c pad-30px">
 			<div class="color-3 nav-2">
@@ -91,4 +94,4 @@
 			</div>
 
 
-			<!-- /header -->
+			
