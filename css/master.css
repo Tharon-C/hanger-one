@@ -84,7 +84,7 @@ nav
     margin-left: -4px; }
     .nav li a {
       display: block;
-      color: grey;
+      color: #3C3C3C;
       padding: 18px 30px;
       font-size: 14px;
       position: relative;
@@ -236,7 +236,7 @@ footer {
   color: black;
   padding: 10px;
   font-size: 12px;
-  text-shadow: 1px 1px grey; }
+  text-shadow: 1px 1px #3C3C3C; }
   footer a {
     color: black; }
 
