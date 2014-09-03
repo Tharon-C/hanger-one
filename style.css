@@ -42,9 +42,10 @@ ul li {line-height: 160%;list-style:none;}
 
 article li {margin-bottom: 20px;}
 
-img {display:block;width:100%;vertical-align:bottom;}
+img {display:block;vertical-align:bottom;}
 
 /*helper classes*/
+.full {width:100%;}
 .inlineblk{display:inline-block;}
 .p-l {float:left;}
 .p-r {float:right;}
@@ -194,6 +195,8 @@ img {display:block;width:100%;vertical-align:bottom;}
 }
 /* M stands for medium. M styles get triggered at 45em, that is, 720px */
 @media (max-width: 45em) {
+  .m-pad-0 {padding:0;}
+  .m-pad-10px {padding:10px;}
   .txt-l-m {text-align: left;}
   .m-full {width: 100%;}
   .m-1-2, .m-2-4 {width: 50%;}
