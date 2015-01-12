@@ -27,6 +27,9 @@ function get_relative_image_path_shortcode($args) {
 	return $upload_dir.'/'.$args['file'];
 }
 
+if (!session_id()) {
+    session_start();
+}
 
 //google fonts 
 function load_fonts() {
